@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hussainazia
 - 👀 I’m interested in Cloud Computing 
-- 🌱 I’m currently learning Azure DeVops, AZ Security Technologies, Azure architecture 
+- 🌱 I’m currently working with Azure DeVops, AZ Security Technologies, Azure architecture 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, Hussain_a_zia@hotmail.com, 92 333 470 21445
 
